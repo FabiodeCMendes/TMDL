@@ -1,0 +1,32 @@
+----------------------------
+-- Calendario TMDL
+------------------
+createOrReplace
+
+	table dimCalendário1
+		
+		column Data
+			formatString: Short Date
+			summarizeBy: none
+			sourceColumn: [Date]
+
+			annotation SummarizationSetBy = Automatic
+			
+		column Ano = YEAR('dimCalendário'[Data])
+			formatString: 0
+			summarizeBy: sum
+
+			annotation SummarizationSetBy = Automatic
+
+		column Mês = MONTH('dimCalendário'[Data])
+			formatString: 0
+			summarizeBy: sum
+
+			annotation SummarizationSetBy = Automatic
+
+		partition dimCalendário = calculated
+			mode: import
+			source = CALENDARAUTO()
+
+
+----------------------------
