@@ -25,8 +25,8 @@ Sua principal função é transformar arquivos JSON complexos (como o antigo for
 
 ##Videos relacionados:
 
-curso : https://www.youtube.com/watch?v=eFrPUcFS-xA&list=PLs3TRT-Hl5KYEp0lM-jmGSftCFANvV0Zx
-atualização 2025 : https://www.youtube.com/watch?v=oMA-cyN1yVQ
-atualização 2025 : https://www.youtube.com/watch?v=YPemSQT5CP4
+curso : https://www.youtube.com/watch?v=eFrPUcFS-xA&list=PLs3TRT-Hl5KYEp0lM-jmGSftCFANvV0Zx  
+atualização 2025 : https://www.youtube.com/watch?v=oMA-cyN1yVQ  
+atualização 2025 : https://www.youtube.com/watch?v=YPemSQT5CP4  
 
 https://www.youtube.com/watch?v=eFrPUcFS-xA&list=PLs3TRT-Hl5KYEp0lM-jmGSftCFANvV0Zx
